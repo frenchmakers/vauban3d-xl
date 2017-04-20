@@ -1,0 +1,5 @@
+*.lck
+*.wmv
+*.avi
+**/OldVersions/
+Rendu/Animation*
